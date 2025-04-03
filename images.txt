@@ -14,3 +14,6 @@ postgres:13
 redis:6
 valkey/valkey:8
 minio/minio
+
+#2025.04.03 增加xinference镜像，部署rerank模型
+xprobexinference
