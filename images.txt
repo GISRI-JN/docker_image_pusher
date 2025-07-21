@@ -17,3 +17,6 @@ minio/minio
 
 #2025.04.03 增加xinference镜像，部署rerank模型
 xprobe/xinference
+
+#2025.07.21 增加llamafactory
+llamafactory
