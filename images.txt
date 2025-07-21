@@ -19,4 +19,4 @@ minio/minio
 xprobe/xinference
 
 #2025.07.21 增加llamafactory
-llamafactory
+llama-factory
